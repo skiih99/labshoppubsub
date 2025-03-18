@@ -15,7 +15,7 @@
                             <v-list-item-title>
                             </v-list-item-title>
                             <v-list-item-subtitle>
-                                OrderId :  {{item.orderId }}
+                                CustomerId :  {{item.customerId }}
                             </v-list-item-subtitle>
                             <v-list-item-subtitle>
                                 Address :  {{item.address }}
