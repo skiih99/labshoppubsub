@@ -20,7 +20,7 @@ public class Delivery {
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
 
-    private Long orderId;
+    private Long customerId;
 
     private String address;
 
